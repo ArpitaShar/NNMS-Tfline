@@ -10,6 +10,10 @@ numpy==1.26.2
 onnx-tf==1.10.0
 tensorflow_probability==0.23.0
 ipykernel
+tensorflow-cpu
+Pillow
+matplotlib
+
 
 
 
